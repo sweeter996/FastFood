@@ -1,0 +1,2 @@
+﻿Ở mỗi lớp, đặt tên theo cú pháp <Tên>_<Tên lớp>
+VD: tại lớp DAO, lớp Menu do phương làm thì phải đặt tên là: HP_MonAn.cs (Để phân biệt class đó do ai tạo ra)
