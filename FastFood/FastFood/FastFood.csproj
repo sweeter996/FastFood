@@ -75,5 +75,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GhiNhanOrder\" />
+    <Folder Include="QL_Menu\" />
+    <Folder Include="QL_NhanVien\" />
+    <Folder Include="ThanhToan\" />
+    <Folder Include="ThongKe\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
