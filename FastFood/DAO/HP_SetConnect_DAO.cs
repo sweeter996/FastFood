@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Configuration;
 using System.Data;
+using System.Configuration;
 
 namespace DAO
 {
@@ -92,11 +93,12 @@ namespace DAO
             }
 
         }
-        public int Lookup(string keyName, string table)
+        public int Lookup(string keyName, string field, string table)
         {
             Connect();
-            string query = "Select Count(" + keyName + ") From " + table;
+            string query = "Select Count(" + field + ") From " + table + " Where " + field + " = '" + keyName+"'";
             SqlCommand command = new SqlCommand(query, cn);
+            command.Parameters.Add(new SqlParameter(field, keyName));
             int result = (int)command.ExecuteScalar();
             DisConnect();
             return result;

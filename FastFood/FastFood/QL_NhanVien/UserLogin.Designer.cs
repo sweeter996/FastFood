@@ -34,8 +34,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtPassword = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.cbUserType = new System.Windows.Forms.ComboBox();
-            this.label4 = new System.Windows.Forms.Label();
             this.btLogin = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -43,6 +41,7 @@
             // label1
             // 
             this.label1.BackColor = System.Drawing.Color.Silver;
+            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(119, 13);
             this.label1.Name = "label1";
@@ -91,43 +90,22 @@
             this.label3.TabIndex = 3;
             this.label3.Text = "Mật Khẩu";
             // 
-            // cbUserType
-            // 
-            this.cbUserType.FormattingEnabled = true;
-            this.cbUserType.Items.AddRange(new object[] {
-            "Admin",
-            "User"});
-            this.cbUserType.Location = new System.Drawing.Point(196, 196);
-            this.cbUserType.Name = "cbUserType";
-            this.cbUserType.Size = new System.Drawing.Size(121, 28);
-            this.cbUserType.TabIndex = 4;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(94, 199);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(96, 20);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "Phân Quyền";
-            // 
             // btLogin
             // 
-            this.btLogin.Location = new System.Drawing.Point(196, 231);
+            this.btLogin.Location = new System.Drawing.Point(196, 196);
             this.btLogin.Name = "btLogin";
             this.btLogin.Size = new System.Drawing.Size(121, 35);
             this.btLogin.TabIndex = 5;
             this.btLogin.Text = "Đăng Nhập";
             this.btLogin.UseVisualStyleBackColor = true;
+            this.btLogin.Click += new System.EventHandler(this.btLogin_Click);
             // 
             // UserLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(453, 293);
+            this.ClientSize = new System.Drawing.Size(453, 255);
             this.Controls.Add(this.btLogin);
-            this.Controls.Add(this.cbUserType);
-            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtPassword);
@@ -152,8 +130,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtPassword;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.ComboBox cbUserType;
-        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btLogin;
     }
 }

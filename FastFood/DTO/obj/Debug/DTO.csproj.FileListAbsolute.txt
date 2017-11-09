@@ -1,0 +1,6 @@
+C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DTO\bin\Debug\DTO.exe.config
+C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DTO\bin\Debug\DTO.exe
+C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DTO\bin\Debug\DTO.pdb
+C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DTO\obj\Debug\DTO.exe
+C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DTO\obj\Debug\DTO.pdb
