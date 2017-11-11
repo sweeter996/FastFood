@@ -21,9 +21,15 @@ namespace FastFood.QL_NhanVien
 
         private void btLogin_Click(object sender, EventArgs e)
         {
+            
             HP_User_BUS log = new HP_User_BUS();
             string mess = log.Login_BUS(txtUsername.Text, txtPassword.Text);
             MessageBox.Show(mess);
+        }
+
+        private void UserLogin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

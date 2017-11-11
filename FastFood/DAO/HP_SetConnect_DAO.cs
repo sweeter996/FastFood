@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Configuration;
 using System.Data;
-using System.Configuration;
+//using System.Configuration;
 
 namespace DAO
 {
@@ -106,3 +106,4 @@ namespace DAO
 
     }
 }
+//Data Source = DESKTOP - F4OO71E\SQLEXPRESS;Initial Catalog = FastFoodDB; Integrated Security = True

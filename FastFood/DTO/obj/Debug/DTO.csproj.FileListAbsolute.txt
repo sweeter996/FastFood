@@ -4,3 +4,9 @@ C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DTO\bin\Debug\DT
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DTO\obj\Debug\DTO.exe
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DTO\obj\Debug\DTO.pdb
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DTO\bin\Debug\DTO.exe.config
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DTO\bin\Debug\DTO.exe
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DTO\bin\Debug\DTO.pdb
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DTO\obj\Debug\DTO.exe
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DTO\obj\Debug\DTO.pdb

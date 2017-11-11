@@ -8,3 +8,11 @@ C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DAO\bin\Debug\DT
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DAO\bin\Debug\DTO.exe.config
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DAO\obj\Debug\DAO.exe
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\DAO\obj\Debug\DAO.pdb
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DAO\bin\Debug\DAO.exe.config
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DAO\bin\Debug\DAO.exe
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DAO\bin\Debug\DAO.pdb
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DAO\bin\Debug\DTO.exe
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DAO\bin\Debug\DTO.pdb
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DAO\obj\Debug\DAO.exe
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\DAO\obj\Debug\DAO.pdb

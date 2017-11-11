@@ -17,3 +17,19 @@ C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Deb
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\DAO.exe.config
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.exe
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.pdb
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe.config
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\obj\Debug\FastFood.exe
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\obj\Debug\FastFood.pdb
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\bin\Debug\FastFood.pdb
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\bin\Debug\BUS.exe
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\bin\Debug\DTO.exe
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\bin\Debug\DAO.exe
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\bin\Debug\BUS.pdb
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\bin\Debug\DTO.pdb
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\bin\Debug\DAO.pdb
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\obj\Debug\FastFood.csprojResolveAssemblyReference.cache
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\obj\Debug\FastFood.QL_NhanVien.UserLogin.resources
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.Cache
+D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\obj\Debug\FastFood.GhiNhanOrder.OrderFood.resources
