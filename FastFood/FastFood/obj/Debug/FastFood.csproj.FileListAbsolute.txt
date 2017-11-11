@@ -33,3 +33,19 @@ D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\obj\Debug\FastFood.
 D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\obj\Debug\FastFood.QL_NhanVien.UserLogin.resources
 D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.Cache
 D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\FastFood\obj\Debug\FastFood.GhiNhanOrder.OrderFood.resources
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\bin\Debug\BUS.exe
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\bin\Debug\DTO.exe
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\bin\Debug\DAO.exe
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\bin\Debug\BUS.pdb
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\bin\Debug\DTO.pdb
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\bin\Debug\DAO.pdb
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\obj\Debug\FastFood.csprojResolveAssemblyReference.cache
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\obj\Debug\FastFood.GhiNhanOrder.OrderFood.resources
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\obj\Debug\FastFood.QL_NhanVien.UserLogin.resources
+C:\Users\Lan\demo\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.Cache

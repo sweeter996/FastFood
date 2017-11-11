@@ -51,10 +51,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="GhiNhanOrder\OrderFood.cs">
+    <Compile Include="GhiNhanOrder-ThanhToan\OrderFood.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GhiNhanOrder\OrderFood.Designer.cs">
+    <Compile Include="GhiNhanOrder-ThanhToan\OrderFood.Designer.cs">
       <DependentUpon>OrderFood.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -65,7 +65,7 @@
     <Compile Include="QL_NhanVien\UserLogin.designer.cs">
       <DependentUpon>UserLogin.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="GhiNhanOrder\OrderFood.resx">
+    <EmbeddedResource Include="GhiNhanOrder-ThanhToan\OrderFood.resx">
       <DependentUpon>OrderFood.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -95,7 +95,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="QL_Menu\" />
-    <Folder Include="ThanhToan\" />
     <Folder Include="ThongKe\" />
   </ItemGroup>
   <ItemGroup>
