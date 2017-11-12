@@ -42,9 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HP_Employee_DTO.cs" />
     <Compile Include="HP_User_DTO.cs" />
-    <Compile Include="NC_FoodCategory_DTO.cs" />
-    <Compile Include="NC_OrderFood_DTO.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

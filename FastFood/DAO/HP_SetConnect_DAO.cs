@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Configuration;
 using System.Data;
-//using System.Configuration;
+using System.Configuration;
 
 namespace DAO
 {
@@ -76,7 +76,7 @@ namespace DAO
         {
             try
             {
-                string query = "Select " + select + "From " + from;
+                string query = "Select " + select + " From " + from;
                 SqlDataAdapter adt = new SqlDataAdapter(query, cn);
                 DataTable dtSelect = new DataTable();
                 adt.Fill(dtSelect);
@@ -106,4 +106,3 @@ namespace DAO
 
     }
 }
-//Data Source = DESKTOP - F4OO71E\SQLEXPRESS;Initial Catalog = FastFoodDB; Integrated Security = True

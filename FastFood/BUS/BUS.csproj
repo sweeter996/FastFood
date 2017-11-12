@@ -42,8 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HP_Employee_BUS.cs" />
     <Compile Include="HP_User_BUS.cs" />
-    <Compile Include="NC_OrderFood_BUS.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

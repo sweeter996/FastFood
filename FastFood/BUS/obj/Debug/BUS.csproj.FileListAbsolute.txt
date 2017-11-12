@@ -11,13 +11,16 @@ C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\BUS\bin\Debug\DT
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\BUS\bin\Debug\DTO.exe.config
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\BUS\obj\Debug\BUS.exe
 C:\Users\Lap JAV\Documents\Visual Studio 2017\Projects\FastFood\BUS\obj\Debug\BUS.pdb
-D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\BUS\bin\Debug\BUS.exe.config
-D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\BUS\bin\Debug\BUS.exe
-D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\BUS\bin\Debug\BUS.pdb
-D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\BUS\bin\Debug\DAO.exe
-D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\BUS\bin\Debug\DTO.exe
-D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\BUS\bin\Debug\DAO.pdb
-D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\BUS\bin\Debug\DTO.pdb
-D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
-D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\BUS\obj\Debug\BUS.exe
-D:\Chau\KTPM\Bai Tap Lon\FastFood\FastFood\FastFood\BUS\obj\Debug\BUS.pdb
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\bin\Debug\BUS.exe.config
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\bin\Debug\BUS.exe
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\bin\Debug\BUS.pdb
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\bin\Debug\DAO.exe
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\bin\Debug\DTO.exe
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\bin\Debug\DAO.pdb
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\bin\Debug\DAO.exe.config
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\bin\Debug\DTO.pdb
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\bin\Debug\DTO.exe.config
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\obj\Debug\BUS.exe
+C:\Users\Lap JAV\Desktop\FastFood\FastFood\BUS\obj\Debug\BUS.pdb

@@ -29,6 +29,7 @@ namespace DAO
                     {
                         userID = (int)reader["UserID"];
                     }
+                    cn.DisConnect();
                     return (userID.ToString());
                 }
                 else
