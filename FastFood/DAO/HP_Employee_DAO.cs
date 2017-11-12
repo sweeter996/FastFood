@@ -19,7 +19,7 @@ namespace DAO
         {
             cn.Connect();
             //string query = "Select , EmployeeID From dbo.Employees";
-            return cn.GetSelectDAO("EmployeeID AS N'Mã Nhân Viên', FirstName + ' ' + LastName AS N'Họ Tên'", "Employees");
+            return cn.GetSelectDAO("EmployeeID AS N'Mã Nhân Viên', LastName + ' ' + FirstName AS N'Họ Tên'", "Employees");
         }
         public DataTable LookupEmpl(string lookupKey, int type)
         {
@@ -27,11 +27,11 @@ namespace DAO
             {
                 case 1:
                     //int userID = 0;
-                    if (cn.Lookup(lookupKey, "LastName", "Employees") != 0)
+                    if (cn.Lookup(lookupKey, "FirstName", "Employees") != 0)
                     {
-                        string query = "Select EmployeeID AS N'Mã Nhân Viên', FirstName + ' ' + LastName AS N'Họ Tên' From Employees Where LastName = @lastname";
+                        string query = "Select EmployeeID AS N'Mã Nhân Viên', LastName + ' ' + FirstName AS N'Họ Tên' From Employees Where FirstName = @firstname";
                         SqlDataAdapter adpt = new SqlDataAdapter(query, cn.cn);
-                        adpt.SelectCommand.Parameters.AddWithValue("@lastname", lookupKey);
+                        adpt.SelectCommand.Parameters.AddWithValue("@firstname", lookupKey);
                         DataTable dt = new DataTable();
                         adpt.Fill(dt);
                         return dt;

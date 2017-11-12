@@ -206,7 +206,7 @@
             this.btnSave.Location = new System.Drawing.Point(229, 305);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(97, 37);
-            this.btnSave.TabIndex = 2;
+            this.btnSave.TabIndex = 9;
             this.btnSave.Text = "Lưu";
             this.btnSave.UseVisualStyleBackColor = true;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
@@ -216,7 +216,7 @@
             this.btnDel.Location = new System.Drawing.Point(120, 305);
             this.btnDel.Name = "btnDel";
             this.btnDel.Size = new System.Drawing.Size(103, 37);
-            this.btnDel.TabIndex = 2;
+            this.btnDel.TabIndex = 8;
             this.btnDel.Text = "Xóa";
             this.btnDel.UseVisualStyleBackColor = true;
             this.btnDel.Click += new System.EventHandler(this.btnDel_Click);
@@ -226,7 +226,7 @@
             this.btnUpdate.Location = new System.Drawing.Point(11, 305);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(103, 37);
-            this.btnUpdate.TabIndex = 2;
+            this.btnUpdate.TabIndex = 7;
             this.btnUpdate.Text = "Cập Nhật";
             this.btnUpdate.UseVisualStyleBackColor = true;
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
@@ -238,7 +238,7 @@
             this.txtGhiChu.Name = "txtGhiChu";
             this.txtGhiChu.ReadOnly = true;
             this.txtGhiChu.Size = new System.Drawing.Size(178, 64);
-            this.txtGhiChu.TabIndex = 1;
+            this.txtGhiChu.TabIndex = 6;
             // 
             // label11
             // 
@@ -255,7 +255,7 @@
             this.txtLuong.Name = "txtLuong";
             this.txtLuong.ReadOnly = true;
             this.txtLuong.Size = new System.Drawing.Size(178, 26);
-            this.txtLuong.TabIndex = 1;
+            this.txtLuong.TabIndex = 5;
             // 
             // label9
             // 
@@ -272,7 +272,7 @@
             this.txtDiaChi.Name = "txtDiaChi";
             this.txtDiaChi.ReadOnly = true;
             this.txtDiaChi.Size = new System.Drawing.Size(178, 26);
-            this.txtDiaChi.TabIndex = 1;
+            this.txtDiaChi.TabIndex = 4;
             // 
             // label8
             // 
@@ -289,7 +289,7 @@
             this.txtSDT.Name = "txtSDT";
             this.txtSDT.ReadOnly = true;
             this.txtSDT.Size = new System.Drawing.Size(178, 26);
-            this.txtSDT.TabIndex = 1;
+            this.txtSDT.TabIndex = 3;
             // 
             // label7
             // 
@@ -307,7 +307,7 @@
             this.txtTen.Name = "txtTen";
             this.txtTen.ReadOnly = true;
             this.txtTen.Size = new System.Drawing.Size(178, 26);
-            this.txtTen.TabIndex = 1;
+            this.txtTen.TabIndex = 2;
             // 
             // label6
             // 
@@ -341,7 +341,7 @@
             this.txtMaNV.Name = "txtMaNV";
             this.txtMaNV.ReadOnly = true;
             this.txtMaNV.Size = new System.Drawing.Size(178, 26);
-            this.txtMaNV.TabIndex = 1;
+            this.txtMaNV.TabIndex = 0;
             // 
             // label4
             // 
@@ -375,6 +375,7 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "QuanLyNhanVien";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "QuanLyNhanVien";
             this.Load += new System.EventHandler(this.QuanLyNhanVien_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

@@ -23,7 +23,18 @@ namespace FastFood.QL_NhanVien
         {
             HP_User_BUS log = new HP_User_BUS();
             string mess = log.Login_BUS(txtUsername.Text, txtPassword.Text);
-            MessageBox.Show(mess);
+            if (mess == "1")
+            {
+                MessageBox.Show("Đăng Nhập Thành Công !");
+                Form f = new QuanLyNhanVien();
+                this.Hide();
+                f.ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show(mess);
+            }
+            
         }
     }
 }

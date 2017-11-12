@@ -55,13 +55,15 @@
             this.txtUsername.Location = new System.Drawing.Point(196, 132);
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(168, 26);
-            this.txtUsername.TabIndex = 1;
+            this.txtUsername.TabIndex = 0;
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::FastFood.Properties.Resources.FastFood;
             this.pictureBox1.Location = new System.Drawing.Point(13, 13);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
@@ -95,7 +97,7 @@
             this.btLogin.Location = new System.Drawing.Point(196, 196);
             this.btLogin.Name = "btLogin";
             this.btLogin.Size = new System.Drawing.Size(121, 35);
-            this.btLogin.TabIndex = 5;
+            this.btLogin.TabIndex = 2;
             this.btLogin.Text = "Đăng Nhập";
             this.btLogin.UseVisualStyleBackColor = true;
             this.btLogin.Click += new System.EventHandler(this.btLogin_Click);
