@@ -46,6 +46,7 @@
     <Compile Include="HP_Employee_DAO.cs" />
     <Compile Include="HP_SetConnect_DAO.cs" />
     <Compile Include="HP_User_DAO.cs" />
+    <Compile Include="NC_OrderFood_DAO.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

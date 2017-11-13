@@ -11,3 +11,9 @@ C:\Users\Lap JAV\Desktop\FastFood\FastFood\DTO\obj\Debug\DTO.csproj.CoreCompileI
 C:\Users\Lap JAV\Desktop\FastFood\FastFood\DTO\obj\Debug\DTO.exe
 C:\Users\Lap JAV\Desktop\FastFood\FastFood\DTO\obj\Debug\DTO.pdb
 C:\Users\Lap JAV\Desktop\FastFood\FastFood\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Chau\KTPM\Bai Tap Lon\FF file mới\FastFood\FastFood\DTO\bin\Debug\DTO.exe.config
+D:\Chau\KTPM\Bai Tap Lon\FF file mới\FastFood\FastFood\DTO\bin\Debug\DTO.exe
+D:\Chau\KTPM\Bai Tap Lon\FF file mới\FastFood\FastFood\DTO\bin\Debug\DTO.pdb
+D:\Chau\KTPM\Bai Tap Lon\FF file mới\FastFood\FastFood\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Chau\KTPM\Bai Tap Lon\FF file mới\FastFood\FastFood\DTO\obj\Debug\DTO.exe
+D:\Chau\KTPM\Bai Tap Lon\FF file mới\FastFood\FastFood\DTO\obj\Debug\DTO.pdb
